@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">Essayez cette invite</string>
+    <string name="Back">Dos</string>
+    <string name="Email">E-mail</string>
+    <string name="Password">Mot de passe</string>
+    <string name="Continue">Continuer</string>
+    <string name="ForgotthePassword">J\'ai oublié le mot de passe</string>
+
+    <string name="Profile">Profil</string>
+    <string name="Nothinghereyet">Rien ici encore</string>
+    <string name="Thisisthegallery">Ceci est la galerie de toutes vos futures créations HotRest</string>
+    <string name="TryNow">Essayez maintenant</string>
+    <string name="GetPRO">Devenir pro</string>
+    <string name="Save">Sauvegarder</string>
+
+    <string name="Delete">Supprimer</string>
+    <string name="Cancel">Annuler</string>
+    <string name="Share">Partager</string>
+    <string name="Checkingforupdate">Vérification de la mise à jour...</string>
+    <string name="Promptdescription">Description rapide</string>
+    <string name="Pleaseenteryour">Veuillez entrer le look de la fille que vous imaginez</string>
+
+    <string name="InspireMe">Inspire moi</string>
+    <string name="Face">Affronter</string>
+    <string name="CreateNow">Créer maintenant</string>
+    <string name="randomfaceifnoselect">(visage aléatoire si pas de sélection)</string>
+    <string name="Size">Taille</string>
+    <string name="PromptInspirations">Inspirations rapides</string>
+
+    <string name="EuropeanGirl">Fille européenne</string>
+    <string name="TexttoAI1">Texte à IA Art Déshabiller des filles réalistes</string>
+    <string name="TexttoAI2">Texte à IA Art Belles filles</string>
+    <string name="AsianGirl">Fille asiatique</string>
+    <string name="AnimeGirl">Fille animée</string>
+
+    <string name="TexttoAI3">Texte à IA Art Anime Girls</string>
+    <string name="BlackGirl">Fille noire</string>
+    <string name="TexttoAI4">Texte à IA Art Filles noires réalistes et chaudes</string>
+    <string name="LatinoGirl">Fille latino</string>
+    <string name="TexttoAI5">Text to IA ArtFesses réalistes de filles latines</string>
+
+    <string name="Creation">Création</string>
+    <string name="RemoveWatermark">Supprimer filigrane</string>
+    <string name="SaveHDimage">Enregistrer l\'image HD</string>
+    <string name="SaveSmallimage">Enregistrer Petite image</string>
+    <string name="Settings">Paramètres</string>
+
+    <string name="ProUser">Utilisateur professionnel</string>
+    <string name="Login">Se connecter</string>
+    <string name="Notifications">Notifications</string>
+    <string name="RestorePurchase">Restaurer l\'achat</string>
+    <string name="SingOut">Chanter</string>
+
+    <string name="RateApp">Application de taux</string>
+    <string name="HelpSupport">Support d\'aide</string>
+    <string name="Language">Langue</string>
+    <string name="PrivacyPolicy">Politique de Confidentialité</string>
+    <string name="TermsofService">Conditions D\'utilisation</string>
+
+    <string name="SUBSCRIPTION">ABONNEMENT</string>
+    <string name="ACCOUNT">COMPTE</string>
+    <string name="GENERAL">GÉNÉRAL</string>
+    <string name="WelcometoHotRest">Bienvenue sur HotRest !</string>
+    <string name="CreateanAccount">Créer un compte</string>
+
+
+    <string name="Unlockthefull">Libérez tout le potentiel de HotRest en créant un compte</string>
+    <string name="ContinuewithGoogle">Continuer avec Google</string>
+    <string name="ContinuewithEmail">Continuer avec l\'e-mail</string>
+    <string name="Bytapping">En appuyant sur le bouton « Continuer », vous acceptez notre</string>
+    <string name="and">et</string>
+
+    <string name="TermsofUse">Conditions d\'utilisation</string>
+    <string name="emailandpassword">Vous devez saisir votre email et votre mot de passe. Merci de remplir les champs ci-dessous</string>
+    <string name="Ok">D\'accord</string>
+    <string name="GalleryFull">Galerie complète</string>
+    <string name="Freeupspace">Libérez de l\'espace en enregistrant ou en partageant une photo avant de la supprimer. Gardez la créativité à flot !</string>
+
+
+    <string name="GenerationLimitExceeded">Limite de génération dépassée !</string>
+    <string name="Yourgenerationshaverunout">Vos générations sont épuisées. Pensez à vous abonner pour continuer.</string>
+    <string name="AIGirlGenerator">Bienvenue sur HotRest - Générateur de filles IA !</string>
+    <string name="AIRealisticGirls">Filles réalistes IA</string>
+    <string name="Selectyourplan">Sélectionnez votre forfait</string>
+
+    <string name="Unlimitedartcreation">Création artistique illimitée</string>
+    <string name="Unlockmultitask">Débloquez le multitâche</string>
+    <string name="HDimagesgallery">Galerie d\'images HD</string>
+    <string name="Monthly">Hebdomadaire</string>
+    <string name="week">9,99 $/semaine</string>
+
+
+    <string name="Yearly">Annuel</string>
+    <string name="justyear">seulement 39,99 $/an</string>
+    <string name="Save90">Économisez 90 %</string>
+    <string name="week083">0,83 $/semaine</string>
+    <string name="Cancelanytime">Annuler à tout moment</string>
+
+    <string name="TermsofUse2">Conditions d\'utilisation |  </string>
+    <string name="PrivacyPolicy2">Politique de confidentialité | </string>
+    <string name="RestorePurchases">  Restaurer les achats</string>
+    <string name="Try">Essayer</string>
+    <string name="Pro">Pro</string>
+
+
+
+
+</resources>

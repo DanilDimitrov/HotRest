@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">このプロンプトを試してください</string>
+    <string name="Back">戻る</string>
+    <string name="Email">Eメール</string>
+    <string name="Password">パスワード</string>
+    <string name="Continue">続く</string>
+    <string name="ForgotthePassword">パスワードを忘れた場合</string>
+
+    <string name="Profile">プロフィール</string>
+    <string name="Nothinghereyet">ここにはまだ何もありません</string>
+    <string name="Thisisthegallery">これは、今後のすべての HotRest 作成のギャラリーです</string>
+    <string name="TryNow">今すぐやってみて下さい</string>
+    <string name="GetPRO">プロを取得</string>
+    <string name="Save">保存</string>
+
+    <string name="Delete">消去</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="Share">共有</string>
+    <string name="Checkingforupdate">アップデートをチェックしています...</string>
+    <string name="Promptdescription">簡単な説明</string>
+    <string name="Pleaseenteryour">あなたの想像する女の子の姿を入力してください</string>
+
+    <string name="InspireMe">インスピレーション・ミー</string>
+    <string name="Face">顔</string>
+    <string name="CreateNow">今すぐ作成</string>
+    <string name="randomfaceifnoselect">(選択しない場合はランダムな顔になります)</string>
+    <string name="Size">サイズ</string>
+    <string name="PromptInspirations">即時のインスピレーション</string>
+
+    <string name="EuropeanGirl">ヨーロッパの女の子</string>
+    <string name="TexttoAI1">AI アートにテキストを送り、リアルな女の子の服を脱ぐ</string>
+    <string name="TexttoAI2">AIアート美少女にテキストを送信</string>
+    <string name="AsianGirl">アジアの女の子</string>
+    <string name="AnimeGirl">アニメの女の子</string>
+
+    <string name="TexttoAI3">AI アート アニメの女の子へのテキスト</string>
+    <string name="BlackGirl">黒人少女</string>
+    <string name="TexttoAI4">AI アートへのテキスト ホットでリアルな黒人の女の子</string>
+    <string name="LatinoGirl">ラテン系の女の子</string>
+    <string name="TexttoAI5">AI アートへのテキストリアルなラテン系女の子のお尻</string>
+
+    <string name="Creation">創造</string>
+    <string name="RemoveWatermark">透かしを削除する</string>
+    <string name="SaveHDimage">HD画像の保存</string>
+    <string name="SaveSmallimage">小さい画像を保存</string>
+    <string name="Settings">設定</string>
+
+    <string name="ProUser">プロユーザー</string>
+    <string name="Login">ログイン</string>
+    <string name="Notifications">通知</string>
+    <string name="RestorePurchase">購入商品を復元する</string>
+    <string name="SingOut">大声で歌う</string>
+
+    <string name="RateApp">アプリを評価</string>
+    <string name="HelpSupport">ヘルプサポート</string>
+    <string name="Language">言語</string>
+    <string name="PrivacyPolicy">プライバシーポリシー</string>
+    <string name="TermsofService">利用規約</string>
+
+    <string name="SUBSCRIPTION">サブスクリプション</string>
+    <string name="ACCOUNT">アカウント</string>
+    <string name="GENERAL">一般的な</string>
+    <string name="WelcometoHotRest">ホットレストへようこそ!</string>
+    <string name="CreateanAccount">アカウントを作成する</string>
+
+
+    <string name="Unlockthefull">アカウントを作成して HotRest の可能性を最大限に引き出します</string>
+    <string name="ContinuewithGoogle">Googleで続けます</string>
+    <string name="ContinuewithEmail">メールで続行</string>
+    <string name="Bytapping">「続行」ボタンをタップすると、次の内容に同意したことになります。</string>
+    <string name="and">そして</string>
+
+    <string name="TermsofUse">利用規約</string>
+    <string name="emailandpassword">メールアドレスとパスワードを入力する必要があります。以下のフィールドに記入してください</string>
+    <string name="Ok">よし</string>
+    <string name="GalleryFull">ギャラリーがいっぱい
+</string>
+    <string name="Freeupspace">削除する前に写真を保存または共有して、スペースを解放してください。創造力を発揮し続けましょう！</string>
+
+
+    <string name="GenerationLimitExceeded">世代制限を超えました!</string>
+    <string name="Yourgenerationshaverunout">あなた方の世代はもう終わりです。継続するには購読をご検討ください。</string>
+    <string name="AIGirlGenerator">HotRest - AI ガール ジェネレーターへようこそ!</string>
+    <string name="AIRealisticGirls">AIリアルガールズ</string>
+    <string name="Selectyourplan">プランを選択してください</string>
+
+    <string name="Unlimitedartcreation">無制限のアート制作</string>
+    <string name="Unlockmultitask">マルチタスクのロックを解除する</string>
+    <string name="HDimagesgallery">HD画像ギャラリー</string>
+    <string name="Monthly">毎週</string>
+    <string name="week">$9.99/週</string>
+
+
+    <string name="Yearly">毎年</string>
+    <string name="justyear">年間わずか 39,99 ドル</string>
+    <string name="Save90">90% 節約</string>
+    <string name="week083">0,83$/週</string>
+    <string name="Cancelanytime">いつでもキャンセル可能</string>
+
+    <string name="TermsofUse2">利用規約 | </string>
+    <string name="PrivacyPolicy2">プライバシーポリシー|  </string>
+    <string name="RestorePurchases">  購入を復元</string>
+    <string name="Try">試す</string>
+    <string name="Pro">プロ</string>
+
+
+
+
+</resources>

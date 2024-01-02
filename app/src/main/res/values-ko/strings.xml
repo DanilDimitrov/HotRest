@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">이 프롬프트를 시도해 보세요</string>
+    <string name="Back">뒤쪽에</string>
+    <string name="Email">이메일</string>
+    <string name="Password">비밀번호</string>
+    <string name="Continue">계속하다</string>
+    <string name="ForgotthePassword">비밀번호를 잊으셨나요?</string>
+
+    <string name="Profile">프로필</string>
+    <string name="Nothinghereyet">아직 아무것도 없습니다</string>
+    <string name="Thisisthegallery">이것은 미래의 모든 HotRest 창작물을 담은 갤러리입니다.</string>
+    <string name="TryNow">지금 사용해 보세요</string>
+    <string name="GetPRO">프로 받기</string>
+    <string name="Save">구하다</string>
+
+    <string name="Delete">삭제</string>
+    <string name="Cancel">취소</string>
+    <string name="Share">공유하다</string>
+    <string name="Checkingforupdate">업데이트 확인 중...</string>
+    <string name="Promptdescription">프롬프트 설명</string>
+    <string name="Pleaseenteryour">당신이 상상하는 여자의 모습을 입력해주세요</string>
+
+    <string name="InspireMe">나에게 영감을 불어 넣는다</string>
+    <string name="Face">얼굴</string>
+    <string name="CreateNow">지금 만들기</string>
+    <string name="randomfaceifnoselect">(선택하지 않은 경우 임의의 얼굴)</string>
+    <string name="Size">크기</string>
+    <string name="PromptInspirations">즉각적인 영감</string>
+
+    <string name="EuropeanGirl">유럽 소녀
+</string>
+    <string name="TexttoAI1">AI 예술에 대한 텍스트 옷을 벗고 현실적인 소녀들</string>
+    <string name="TexttoAI2">AI Art Beautiful Girls에 대한 텍스트</string>
+    <string name="AsianGirl">아시아 소녀</string>
+    <string name="AnimeGirl">애니메이션 소녀</string>
+
+    <string name="TexttoAI3">AI Art Anime Girls에 보내는 텍스트</string>
+    <string name="BlackGirl">흑인 소녀</string>
+    <string name="TexttoAI4">AI Art에 대한 텍스트 핫하고 현실적인 흑인 소녀들</string>
+    <string name="LatinoGirl">라틴계 소녀</string>
+    <string name="TexttoAI5">AI Art에 대한 텍스트현실적인 라틴계 소녀 엉덩이</string>
+
+    <string name="Creation">창조</string>
+    <string name="RemoveWatermark">워터마크 제거</string>
+    <string name="SaveHDimage">HD 이미지 저장</string>
+    <string name="SaveSmallimage">작은 이미지 저장</string>
+    <string name="Settings">설정</string>
+
+    <string name="ProUser">프로 사용자</string>
+    <string name="Login">로그인</string>
+    <string name="Notifications">알림</string>
+    <string name="RestorePurchase">구매 복원</string>
+    <string name="SingOut">노래하다</string>
+
+    <string name="RateApp">앱 평가</string>
+    <string name="HelpSupport">도움말 지원</string>
+    <string name="Language">언어</string>
+    <string name="PrivacyPolicy">개인 정보 정책</string>
+    <string name="TermsofService">서비스 약관</string>
+
+    <string name="SUBSCRIPTION">신청</string>
+    <string name="ACCOUNT">계정</string>
+    <string name="GENERAL">일반적인</string>
+    <string name="WelcometoHotRest">HotRest에 오신 것을 환영합니다!</string>
+    <string name="CreateanAccount">계정 만들기</string>
+
+
+    <string name="Unlockthefull">계정을 생성하여 HotRest의 잠재력을 최대한 활용하세요</string>
+    <string name="ContinuewithGoogle">Google로 계속하기</string>
+    <string name="ContinuewithEmail">이메일로 계속</string>
+    <string name="Bytapping">"계속" 버튼을 누르면 다음 내용에 동의하는 것으로 간주됩니다.</string>
+    <string name="and">과</string>
+
+    <string name="TermsofUse">이용약관</string>
+    <string name="emailandpassword">이메일과 비밀번호를 입력해야 합니다. 아래 필드를 작성해 주세요.</string>
+    <string name="Ok">승인</string>
+    <string name="GalleryFull">갤러리 전체</string>
+    <string name="Freeupspace">삭제하기 전에 사진을 저장하거나 공유하여 공간을 확보하세요. 창의력을 계속 발휘하세요!</string>
+
+
+    <string name="GenerationLimitExceeded">세대 제한을 초과했습니다!</string>
+    <string name="Yourgenerationshaverunout">당신의 세대는 끝났습니다. 계속하려면 구독을 고려해 보세요.</string>
+    <string name="AIGirlGenerator">HotRest - AI Girl Generator에 오신 것을 환영합니다!</string>
+    <string name="AIRealisticGirls">AI 현실적인 소녀들</string>
+    <string name="Selectyourplan">계획을 선택하세요</string>
+
+    <string name="Unlimitedartcreation">무제한 예술 창작</string>
+    <string name="Unlockmultitask">멀티태스킹 잠금 해제</string>
+    <string name="HDimagesgallery">HD 이미지 갤러리</string>
+    <string name="Monthly">주간</string>
+    <string name="week">9,99$/주</string>
+
+
+    <string name="Yearly">매년</string>
+    <string name="justyear">단 39,99$/년</string>
+    <string name="Save90">90% 할인</string>
+    <string name="week083">0,83 $/주</string>
+    <string name="Cancelanytime">언제든지 취소</string>
+
+    <string name="TermsofUse2">이용약관 | </string>
+    <string name="PrivacyPolicy2">개인정보 보호정책 | </string>
+    <string name="RestorePurchases">  구매를 복원</string>
+    <string name="Try">시험</string>
+    <string name="Pro">직업인</string>
+
+
+
+
+</resources>

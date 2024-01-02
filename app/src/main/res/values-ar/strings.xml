@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">جرب هذه المطالبة</string>
+    <string name="Back">خلف</string>
+    <string name="Email">بريد إلكتروني</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="Continue">يكمل</string>
+    <string name="ForgotthePassword">نسيت كلمة المرور</string>
+
+    <string name="Profile">حساب تعريفي</string>
+    <string name="Nothinghereyet">لا شيء هنا بعد</string>
+    <string name="Thisisthegallery">هذا هو المعرض لجميع إبداعاتك المستقبلية في HotRest</string>
+    <string name="TryNow">جرب الآن</string>
+    <string name="GetPRO">احصل على المحترفين</string>
+    <string name="Save">Save</string>
+
+    <string name="Delete">يحفظ</string>
+    <string name="Cancel">يلغي</string>
+    <string name="Share">يشارك</string>
+    <string name="Checkingforupdate">التحقق من وجود التحديث...</string>
+    <string name="Promptdescription">وصف سريع</string>
+    <string name="Pleaseenteryour">من فضلك أدخل شكل فتاتك المتخيلة</string>
+
+    <string name="InspireMe">الهمني</string>
+    <string name="Face">وجه</string>
+    <string name="CreateNow">اصنع الان</string>
+    <string name="randomfaceifnoselect">(وجه عشوائي في حالة عدم التحديد)</string>
+    <string name="Size">مقاس</string>
+    <string name="PromptInspirations">الإلهام الفوري</string>
+
+    <string name="EuropeanGirl">فتاة أوروبية</string>
+    <string name="TexttoAI1">إرسال رسالة نصية إلى AI Art خلع ملابس الفتيات الواقعيات</string>
+    <string name="TexttoAI2">نص إلى AI Art الفتيات الجميلات</string>
+    <string name="AsianGirl">فتاة آسيوية</string>
+    <string name="AnimeGirl">أنيمي فتاة</string>
+
+    <string name="TexttoAI3">إرسال رسالة نصية إلى AI Art Anime Girls</string>
+    <string name="BlackGirl">فتاة سوداء</string>
+    <string name="TexttoAI4">إرسال رسالة نصية إلى فن الذكاء الاصطناعي للفتيات السود الواقعيات الساخنة</string>
+    <string name="LatinoGirl">فتاة لاتينية</string>
+    <string name="TexttoAI5">نص إلى فن الذكاء الاصطناعي بأعقاب الفتيات اللاتينيات الواقعية</string>
+
+    <string name="Creation">خلق</string>
+    <string name="RemoveWatermark">إزالة العلامة المائية</string>
+    <string name="SaveHDimage">حفظ صورة عالية الدقة</string>
+    <string name="SaveSmallimage">حفظ الصورة الصغيرة</string>
+    <string name="Settings">إعدادات</string>
+
+    <string name="ProUser">مستخدم محترف</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="Notifications">إشعارات</string>
+    <string name="RestorePurchase">استعادة شراء</string>
+    <string name="SingOut">تسجيل الخروج</string>
+
+    <string name="RateApp">قيم التطبيق</string>
+    <string name="HelpSupport">ساعد لدعم</string>
+    <string name="Language">لغة</string>
+    <string name="PrivacyPolicy">سياسة الخصوصية</string>
+    <string name="TermsofService">شروط الخدمة</string>
+
+    <string name="SUBSCRIPTION">الاشتراك</string>
+    <string name="ACCOUNT">حساب</string>
+    <string name="GENERAL">عام</string>
+    <string name="WelcometoHotRest">مرحبا بكم في HotRest!</string>
+    <string name="CreateanAccount">إنشاء حساب</string>
+
+
+    <string name="Unlockthefull">أطلق العنان للإمكانات الكاملة لـ HotRest عن طريق إنشاء حساب</string>
+    <string name="ContinuewithGoogle">تواصل مع جوجل</string>
+    <string name="ContinuewithEmail">تواصل مع البريد الإلكتروني</string>
+    <string name="Bytapping">من خلال النقر على زر "متابعة"، فإنك توافق على لدينا</string>
+    <string name="and">و</string>
+
+    <string name="TermsofUse">شروط الاستخدام</string>
+    <string name="emailandpassword">يجب عليك إدخال البريد الإلكتروني الخاص بك وكلمة المرور. من فضلك إملأ الحقول في الأسفل</string>
+    <string name="Ok">نعم</string>
+    <string name="GalleryFull">معرض كامل</string>
+    <string name="Freeupspace">قم بتحرير المساحة عن طريق حفظ الصورة أو مشاركتها قبل الحذف. حافظ على تدفق الإبداع!</string>
+
+
+    <string name="GenerationLimitExceeded">تجاوز الحد الأقصى للجيل!</string>
+    <string name="Yourgenerationshaverunout">لقد نفدت أجيالكم. يرجى النظر في الاشتراك للمتابعة.</string>
+    <string name="AIGirlGenerator">مرحبًا بك في HotRest - منظمة العفو الدولية فتاة مولد!</string>
+    <string name="AIRealisticGirls">منظمة العفو الدولية الفتيات واقعية</string>
+    <string name="Selectyourplan">اختر خطتك</string>
+
+    <string name="Unlimitedartcreation">إبداع فني غير محدود</string>
+    <string name="Unlockmultitask">فتح المهام المتعددة</string>
+    <string name="HDimagesgallery">معرض الصور عالية الدقة</string>
+    <string name="Monthly">أسبوعي</string>
+    <string name="week">9.99 دولارًا في الأسبوع</string>
+
+
+    <string name="Yearly">سنوي</string>
+    <string name="justyear">فقط 39,99 دولارًا سنويًا</string>
+    <string name="Save90">وفر 90%</string>
+    <string name="week083">0.83 دولار في الأسبوع</string>
+    <string name="Cancelanytime">إلغاء في أي وقت</string>
+
+    <string name="TermsofUse2">شروط الاستخدام | </string>
+    <string name="PrivacyPolicy2">سياسة الخصوصية | </string>
+    <string name="RestorePurchases">  استعادة المشتريات</string>
+    <string name="Try">يحاول</string>
+    <string name="Pro">طليعة</string>
+
+
+
+
+</resources>

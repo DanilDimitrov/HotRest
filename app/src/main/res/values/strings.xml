@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">Try This Prompt</string>
+    <string name="Back">Back</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Continue">Continue</string>
+    <string name="ForgotthePassword">Forgot the Password</string>
+
+    <string name="Profile">Profile</string>
+    <string name="Nothinghereyet">Nothing here yet</string>
+    <string name="Thisisthegallery">This is the gallery of all your future HotRest creations</string>
+    <string name="TryNow">Try Now</string>
+    <string name="GetPRO">Get PRO</string>
+    <string name="Save">Save</string>
+
+    <string name="Delete">Delete</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Share">Share</string>
+    <string name="Checkingforupdate">Checking for update...</string>
+    <string name="Promptdescription">Prompt description</string>
+    <string name="Pleaseenteryour">Please enter your imagined girl look like</string>
+
+    <string name="InspireMe">Inspire Me</string>
+    <string name="Face">Face</string>
+    <string name="CreateNow">Create Now</string>
+    <string name="randomfaceifnoselect">(random face if no select)</string>
+    <string name="Size">Size</string>
+    <string name="PromptInspirations">Prompt Inspirations</string>
+
+    <string name="EuropeanGirl">European Girl</string>
+    <string name="TexttoAI1">Text to AI Art Undress Realistic Girls</string>
+    <string name="TexttoAI2">Text to AI Art Beautiful Girls</string>
+    <string name="AsianGirl">Asian Girl</string>
+    <string name="AnimeGirl">Anime Girl</string>
+
+    <string name="TexttoAI3">Text to AI Art Anime Girls</string>
+    <string name="BlackGirl">Black Girl</string>
+    <string name="TexttoAI4">Text to AI Art Hot Realistic Black Girls</string>
+    <string name="LatinoGirl">Latino Girl</string>
+    <string name="TexttoAI5">Text to AI ArtRealistic Latina Girls Butts</string>
+
+    <string name="Creation">Creation</string>
+    <string name="RemoveWatermark">Remove Watermark</string>
+    <string name="SaveHDimage">Save HD image</string>
+    <string name="SaveSmallimage">Save Small image</string>
+    <string name="Settings">Settings</string>
+
+    <string name="ProUser">Pro User</string>
+    <string name="Login">Login</string>
+    <string name="Notifications">Notifications</string>
+    <string name="RestorePurchase">Restore Purchase</string>
+    <string name="SingOut">Sing Out</string>
+
+    <string name="RateApp">Rate App</string>
+    <string name="HelpSupport">Help Support</string>
+    <string name="Language">Language</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+    <string name="TermsofService">Terms of Service</string>
+
+    <string name="SUBSCRIPTION">SUBSCRIPTION</string>
+    <string name="ACCOUNT">ACCOUNT</string>
+    <string name="GENERAL">GENERAL</string>
+    <string name="WelcometoHotRest">Welcome to HotRest!</string>
+    <string name="CreateanAccount">Create an Account</string>
+
+
+    <string name="Unlockthefull">Unlock the full potential of HotRest by creating an account</string>
+    <string name="ContinuewithGoogle">Continue with Google</string>
+    <string name="ContinuewithEmail">Continue with Email</string>
+    <string name="Bytapping">By tapping the “Continue” button, you agree to our</string>
+    <string name="and">and</string>
+
+    <string name="TermsofUse">Terms of Use</string>
+    <string name="emailandpassword">You must enter your email and password. Please, fill in the fields below</string>
+    <string name="Ok">Ok</string>
+    <string name="GalleryFull">Gallery Full</string>
+    <string name="Freeupspace">Free up space by saving or sharing a photo before deleting. Keep the creativity flowing!</string>
+
+
+    <string name="GenerationLimitExceeded">Generation Limit Exceeded!</string>
+    <string name="Yourgenerationshaverunout">Your generations have run out. Please consider subscribing to continue.</string>
+    <string name="AIGirlGenerator">Welcome to HotRest - AI Girl Generator!</string>
+    <string name="AIRealisticGirls">AI Realistic Girls</string>
+    <string name="Selectyourplan">Select your plan</string>
+
+    <string name="Unlimitedartcreation">Unlimited art creation</string>
+    <string name="Unlockmultitask">Unlock multitask</string>
+    <string name="HDimagesgallery">HD images gallery</string>
+    <string name="Monthly">Weekly</string>
+    <string name="week">9,99 $/week</string>
+
+
+    <string name="Yearly">Yearly</string>
+    <string name="justyear">just 39,99 $/year</string>
+    <string name="Save90">Save 90%</string>
+    <string name="week083">0,83 $/week</string>
+    <string name="Cancelanytime">Cancel anytime</string>
+
+    <string name="TermsofUse2">Terms of Use |  </string>
+    <string name="PrivacyPolicy2">Privacy Policy | </string>
+    <string name="RestorePurchases">  Restore Purchases</string>
+    <string name="Try">Try</string>
+    <string name="Pro">Pro</string>
+
+
+
+
+</resources>

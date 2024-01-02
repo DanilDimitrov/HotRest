@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">嘗試這個提示</string>
+    <string name="Back">後退</string>
+    <string name="Email">電子郵件</string>
+    <string name="Password">密碼</string>
+    <string name="Continue">繼續</string>
+    <string name="ForgotthePassword">忘記密碼</string>
+
+    <string name="Profile">輪廓</string>
+    <string name="Nothinghereyet">這裡還什麼都沒有</string>
+    <string name="Thisisthegallery">這是您未來所有 HotRest 創作的畫廊</string>
+    <string name="TryNow">現在試試</string>
+    <string name="GetPRO">獲得專業版</string>
+    <string name="Save">節省</string>
+
+    <string name="Delete">刪除</string>
+    <string name="Cancel">取消</string>
+    <string name="Share">分享</string>
+    <string name="Checkingforupdate">正在檢查更新...</string>
+    <string name="Promptdescription">提示說明</string>
+    <string name="Pleaseenteryour">請輸入您想像中的女孩的樣子</string>
+
+    <string name="InspireMe">鼓舞我</string>
+    <string name="Face">臉</string>
+    <string name="CreateNow">立即創建</string>
+    <string name="randomfaceifnoselect">（如果沒有選擇隨機面）</string>
+    <string name="Size">尺寸</string>
+    <string name="PromptInspirations">及時的靈感</string>
+
+    <string name="EuropeanGirl">歐洲女孩</string>
+    <string name="TexttoAI1">文字到AI藝術脫衣現實女孩</string>
+    <string name="TexttoAI2">傳簡訊給AI藝術美少女</string>
+    <string name="AsianGirl">亞洲女孩</string>
+    <string name="AnimeGirl">動漫女孩</string>
+
+    <string name="TexttoAI3">給AI藝術動漫女孩發短信</string>
+    <string name="BlackGirl">黑人女孩</string>
+    <string name="TexttoAI4">文字轉 AI 藝術熱門現實黑人女孩</string>
+    <string name="LatinoGirl">拉丁裔女孩</string>
+    <string name="TexttoAI5">文本到人工智能藝術逼真的拉丁女孩屁股</string>
+
+    <string name="Creation">創建</string>
+    <string name="RemoveWatermark">刪除浮水印</string>
+    <string name="SaveHDimage">儲存高畫質影像</string>
+    <string name="SaveSmallimage">儲存小影像</string>
+    <string name="Settings">設定</string>
+
+    <string name="ProUser">專業用戶</string>
+    <string name="Login">登入</string>
+    <string name="Notifications">通知</string>
+    <string name="RestorePurchase">恢復購買</string>
+    <string name="SingOut">唱出來</string>
+
+    <string name="RateApp">評價應用</string>
+    <string name="HelpSupport">幫助支持</string>
+    <string name="Language">語言</string>
+    <string name="PrivacyPolicy">隱私權政策</string>
+    <string name="TermsofService">服務條款</string>
+
+    <string name="SUBSCRIPTION">訂閱</string>
+    <string name="ACCOUNT">帳戶</string>
+    <string name="GENERAL">一般的</string>
+    <string name="WelcometoHotRest">歡迎來到熱休息！</string>
+    <string name="CreateanAccount">建立一個帳戶</string>
+
+
+    <string name="Unlockthefull">透過建立帳戶來釋放 HotRest 的全部潛力</string>
+    <string name="ContinuewithGoogle">繼續使用谷歌</string>
+    <string name="ContinuewithEmail">繼續使用電子郵件</string>
+    <string name="Bytapping">點擊“繼續”按鈕即表示您同意我們的</string>
+    <string name="and">和</string>
+
+    <string name="TermsofUse">使用條款</string>
+    <string name="emailandpassword">您必須輸入您的電子郵件和密碼。請填寫以下字段</string>
+    <string name="Ok">好的</string>
+    <string name="GalleryFull">畫廊完整</string>
+    <string name="Freeupspace">刪除之前透過儲存或分享照片來釋放空間。讓創意源源不絕！</string>
+
+
+    <string name="GenerationLimitExceeded">超出世代限制！</string>
+    <string name="Yourgenerationshaverunout">你們這一代已經用完了。請考慮訂閱以繼續。</string>
+    <string name="AIGirlGenerator">歡迎來到 HotRest - AI 女孩生成器！</string>
+    <string name="AIRealisticGirls">AI現實女孩</string>
+    <string name="Selectyourplan">選擇您的計劃</string>
+
+    <string name="Unlimitedartcreation">藝術創作無極限</string>
+    <string name="Unlockmultitask">解鎖多任務</string>
+    <string name="HDimagesgallery">高清圖片庫</string>
+    <string name="Monthly">每週</string>
+    <string name="week">9,99$ /週</string>
+
+
+    <string name="Yearly">每年</string>
+    <string name="justyear">只需 39,99 美元/年</string>
+    <string name="Save90">Save 90%</string>
+    <string name="week083">節省 90%</string>
+    <string name="Cancelanytime">隨時取消</string>
+
+    <string name="TermsofUse2">使用條款 | </string>
+    <string name="PrivacyPolicy2">隱私權政策 | </string>
+    <string name="RestorePurchases">  恢復購買</string>
+    <string name="Try">嘗試</string>
+    <string name="Pro">親</string>
+
+
+
+
+</resources>

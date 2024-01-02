@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">HotRest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_pro_screen">pro_screen</string>
+
+    <string name="TryThisPrompt">Experimente este prompt</string>
+    <string name="Back">Voltar</string>
+    <string name="Email">E-mail</string>
+    <string name="Password">Senha</string>
+    <string name="Continue">Continuar</string>
+    <string name="ForgotthePassword">Esqueci a senha</string>
+
+    <string name="Profile">Perfil</string>
+    <string name="Nothinghereyet">Nada aqui ainda</string>
+    <string name="Thisisthegallery">Esta é a galeria de todas as suas futuras criações HotRest</string>
+    <string name="TryNow">Tente agora</string>
+    <string name="GetPRO">Obtenha PRO</string>
+    <string name="Save">Salvar</string>
+
+    <string name="Delete">Excluir</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="Share">Compartilhar</string>
+    <string name="Checkingforupdate">Verificando atualizações...</string>
+    <string name="Promptdescription">Descrição imediata</string>
+    <string name="Pleaseenteryour">Por favor, insira a aparência da sua garota imaginada</string>
+
+    <string name="InspireMe">Inspire-me</string>
+    <string name="Face">Face</string>
+    <string name="CreateNow">Crie agora</string>
+    <string name="randomfaceifnoselect">(rosto aleatório se não houver seleção)</string>
+    <string name="Size">Tamanho</string>
+    <string name="PromptInspirations">Inspirações imediatas</string>
+
+    <string name="EuropeanGirl">Garota Europeia</string>
+    <string name="TexttoAI1">Texto para IA Art despir garotas realistas</string>
+    <string name="TexttoAI2">Texto para IA Art Beautiful Girls</string>
+    <string name="AsianGirl">Menina Asiática</string>
+    <string name="AnimeGirl">Menina anime</string>
+
+    <string name="TexttoAI3">Texto para IA Art Anime Girls</string>
+    <string name="BlackGirl">Garota negra</string>
+    <string name="TexttoAI4">Texto para IA Art Hot Realistic Black Girls</string>
+    <string name="LatinoGirl">Garota latina</string>
+    <string name="TexttoAI5">Texto para IA ArtRealistic Latina Girls Butts</string>
+
+    <string name="Creation">Criação</string>
+    <string name="RemoveWatermark">Remover marca d\'água</string>
+    <string name="SaveHDimage">Salvar imagem HD</string>
+    <string name="SaveSmallimage">Salvar imagem pequena</string>
+    <string name="Settings">Configurações</string>
+
+    <string name="ProUser">Usuário profissional</string>
+    <string name="Login">Conecte-se</string>
+    <string name="Notifications">Notificações</string>
+    <string name="RestorePurchase">Restaurar compra</string>
+    <string name="SingOut">Cantar</string>
+
+    <string name="RateApp">Avaliar aplicativo</string>
+    <string name="HelpSupport">Suporte de ajuda</string>
+    <string name="Language">Linguagem</string>
+    <string name="PrivacyPolicy">Política de Privacidade</string>
+    <string name="TermsofService">Termos de Serviço</string>
+
+    <string name="SUBSCRIPTION">INSCRIÇÃO</string>
+    <string name="ACCOUNT">CONTA</string>
+    <string name="GENERAL">EM GERAL</string>
+    <string name="WelcometoHotRest">Bem-vindo ao HotRest!</string>
+    <string name="CreateanAccount">Crie a sua conta aqui</string>
+
+
+    <string name="Unlockthefull">Desbloqueie todo o potencial do HotRest criando uma conta</string>
+    <string name="ContinuewithGoogle">Continuar com o Google</string>
+    <string name="ContinuewithEmail">Continuar com e-mail</string>
+    <string name="Bytapping">Ao tocar no botão “Continuar”, você concorda com nossos</string>
+    <string name="and">e</string>
+
+    <string name="TermsofUse">Termos de Uso</string>
+    <string name="emailandpassword">Você deve inserir seu e-mail e senha. Por favor, preencha os campos abaixo</string>
+    <string name="Ok">Ok</string>
+    <string name="GalleryFull">Galeria completa</string>
+    <string name="Freeupspace">Libere espaço salvando ou compartilhando uma foto antes de excluí-la. Mantenha a criatividade fluindo!</string>
+
+
+    <string name="GenerationLimitExceeded">Limite de geração excedido!</string>
+    <string name="Yourgenerationshaverunout">Suas gerações se esgotaram. Por favor, considere se inscrever para continuar.</string>
+    <string name="AIGirlGenerator">Bem-vindo ao HotRest - Gerador de Garotas IA!</string>
+    <string name="AIRealisticGirls">Garotas realistas com IA</string>
+    <string name="Selectyourplan">Seleciona o teu plano</string>
+
+    <string name="Unlimitedartcreation">Criação de arte ilimitada</string>
+    <string name="Unlockmultitask">Unlock multitask</string>
+    <string name="HDimagesgallery">Galeria de imagens HD</string>
+    <string name="Monthly">Semanalmente</string>
+    <string name="week">9,99 $/semana</string>
+
+
+    <string name="Yearly">Anual</string>
+    <string name="justyear">apenas 39,99 $/ano</string>
+    <string name="Save90">Economize 90%</string>
+    <string name="week083">0,83 $/semana</string>
+    <string name="Cancelanytime">Cancele a qualquer momento</string>
+
+    <string name="TermsofUse2">Termos de Uso |  </string>
+    <string name="PrivacyPolicy2">Política de Privacidade | </string>
+    <string name="RestorePurchases">  Restaurar compras</string>
+    <string name="Try">Tentar</string>
+    <string name="Pro">Pró</string>
+
+
+
+
+</resources>
